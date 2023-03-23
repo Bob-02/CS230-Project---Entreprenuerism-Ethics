@@ -1,9 +1,7 @@
-# Health Harvest
-
-Health Harvest
 
 # Business Plan
 ## Company Name
+Health Harvest
 ## Long-Term Vision Statement
 ### 1.
 
