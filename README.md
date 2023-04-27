@@ -1,7 +1,6 @@
 
-# Business Plan
-## Company Name
-Health Harvest
+## Business Plan
+# Health Harvest
 ## Long-Term Vision Statement
 ### 1. Goals
 1. Develop a comprehensive health app that integrates various health aspects, such as nutrition tracking, supplement management, meal planning, exercise data capture, and user-reported body composition information, providing users with a complete health data aggregator.
