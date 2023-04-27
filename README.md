@@ -90,17 +90,17 @@ American College of Sports Medicine's Annual Meeting: https://www.acsm.org/acsm-
 
 ## Teams
 ### Phu Pham
-Co-Founder/ Software engineer and Marketing
+Co-Founder / Software engineer and Marketing
   
 Phu Pham is currently pursuing a Bachelor’s degree in Computer Science from California State University East Bay. He has extensive experience in software development, focusing on data security, and he can ensure that Health Harvest’s platform remains secure and trustworthy. Lastly, his strong problem-solving skills and the ability to innovate and adapt to new technologies, which makes him an ideal candidate for Health Harvest.
 
 ### Robert Aguirre
-Co-Founder and Software Engineer
+Co-Founder / Software Engineer
   
-Currently a Junior at California State University East Bay pursuing his bachelors in Computer Science. Robert Aguirre is the “jack of all trades” of Health Harvest. 
+Currently a Junior at California State University East Bay pursuing his bachelors in Computer Science, Robert Aguirre is the “jack of all trades” of Health Harvest. With the computer networking experience gained from CSUEB he has helped with the launch of Health Harvest. He hopes to continue to work on the scale up the company and help with bringing a focus on designing products to be inclusive and accessible to the diverse needs of individuals who are looking to improve their health.
 
 ### Kosta Nikolaou
-Co-Founder/ Software engineer and Treasurer 
+Co-Founder / Software engineer and Treasurer 
   
 Kosta Nikolaou is a computer science student at California State University, East Bay (CSUEB) who has always been fascinated by technology. From a young age, Kosta showed a natural inclination towards computers and problem-solving, which ultimately led him to pursue a degree in computer science. In an attempt to better his own fitness journey, he set out with his classmates to create the ultimate fitness tracking app. This culminated in the founding of Health Harvest. He strives to make his dream a reality. 
 
