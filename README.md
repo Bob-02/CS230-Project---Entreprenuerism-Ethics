@@ -171,11 +171,11 @@ We will focus on designing our products to be inclusive and accessible to cater 
 We will try to ensure that our product development and design team is diverse and inclusive to bring more diverse perspectives to the design process of our products and services. 
   
 # Board of Directors
-## Sheryl Sandberg (Former Chief Operating Officer of Facebook).  
+## Steve Blank (Entrepreneur and lecturer at Stanford University).  
   
-Sheryl Sandberg is an American technology executive, author, and billionaire. She is the former Chief Operating Officer of Facebook and was previously the Vice President of Global Online Sales and Operations at Google. Furthermore, she was responsible for driving many changes in Instagram, Messenger, and WhatsApp. In academics, Sandberg earned her Bachelor’s degree in economics from Harvard University and an MBA from Harvard Business School. Currently, she focuses more on her foundation and philanthropic work.
+Steve Blank is a serial entrepreneur and lecturer at Stanford University (https://steveblank.com/), Steve Blank is the creator of the Lean Startup methodology. He has experience mentoring and advising startups at various stages of development.  
   
-Sheryl Sandberg brings extensive experience in managing large-scale technology operations and a strong background in online advertising and marketing. Her leadership and commitment to gender equality and diversity in the workplace make her an ideal candidate to help her guide Health Harvest in scaling its operations and building a diverse, inclusive, and empowered work environment.
+As the creator of the Lean Startup methodology, Steve Blank can offer guidance on how to build and iterate on the Health Harvest app efficiently. His expertise in customer discovery and validation processes can help identify the most critical features and improvements needed for the app, ensuring that development resources are allocated effectively.  
 
 ## Eric Yuan (Founder and CEO of Zoom Video Communications)
   
@@ -229,7 +229,9 @@ Focus group would be asked:
 6. After having the group test the wristbands ask if they have any suggestions to see if there were any major problems with the bands.
   
 ## Priorites 
-
+Health Harvest is setting priority to creating a working health fitness application before anything. We are hoping to have viable product within a year. We are going to be using products like Figma.com, Sketch.com and InVision. To develop the app using a cross-platform development process like React Native or Flutter to streamline the development process.  
+  
+We want to perform usability testing with a small group of potential users to gather feedback and iterate on the design. Then launch a beta version of the app and invite potential users to test it, gathering their feedback to improve the final version.  
 
 
 # Youtube Presentation:
