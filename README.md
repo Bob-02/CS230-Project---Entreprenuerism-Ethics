@@ -3,16 +3,16 @@
 ## Company Name
 Health Harvest
 ## Long-Term Vision Statement
-### 1.Goals
+### 1. Goals
 1. Develop a comprehensive health app that integrates various health aspects, such as nutrition tracking, supplement management, meal planning, exercise data capture, and user-reported body composition information, providing users with a complete health data aggregator.
 2. Uphold strict data privacy and security protocols, ensuring that users have full control over their data, understanding how it is used, and having the ability to delete it at any time.
 3. Design an inclusive platform that caters to the diverse needs of anyone interested in improving their health and fitness.
 Implement gamification elements to motivate users to engage with the app and maintain their diet plans.
 
-### 2.Idea
+### 2. Idea
 Tracking what we eat feels like a second job, so we need an app that motivates and reminds us of what we eat. Then, we can achieve our fitness goals easier.
 
-### 3.Mission Statement
+### 3. Mission Statement
 Health Harvest is committed to revolutionizing the health and fitness industry by offering a seamless, enjoyable, and transparent platform that enables users to effectively manage their health data, maintain privacy, and achieve their wellness goals.
 
 Core Values:
