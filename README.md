@@ -173,7 +173,7 @@ We will try to ensure that our product development and design team is diverse an
 # Board of Directors
 ## Steve Blank (Entrepreneur and lecturer at Stanford University).  
   
-Steve Blank is a serial entrepreneur and lecturer at Stanford University (https://steveblank.com/), Steve Blank is the creator of the Lean Startup methodology. He has experience mentoring and advising startups at various stages of development.  
+Steve Blank is an American entrepreneur, author, and educator who is widely recognized as one of the pioneers of the Lean Startup movement. He is an Adjunct Professor at Stanford University, where he teaches courses on innovation, entrepreneurship, and national security. He is also a Senior Fellow for Innovation at Columbia University and a founding member of the Gordian Knot Center for National Security Innovation.
   
 As the creator of the Lean Startup methodology, Steve Blank can offer guidance on how to build and iterate on the Health Harvest app efficiently. His expertise in customer discovery and validation processes can help identify the most critical features and improvements needed for the app, ensuring that development resources are allocated effectively.  
 
