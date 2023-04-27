@@ -123,10 +123,6 @@ Objective 3: Expand the range of integrated health and fitness tools
 - Integrate Health Harvest with at least five popular fitness apps by the end of the second year.
 - Collaborate with two nutrition and weight management app providers by the end of the third year.
   
-Objective 4: Strengthen brand presence and recognition  
-- Attend at least two industry conferences or trade shows per year to showcase the Health Harvest app.
-- Generate media coverage in at least five major health and wellness publications or websites by the end of the second year.
-- Collaborate with at least 10 fitness influencers on social media campaigns to promote the app by the end of the third year.
 
 ### Differentiation Strategies: These will help us to become different from the potential competitors.  
 User Data Ownership: Emphasize the commitment to user data privacy and control, positioning Health Harvest as a trustworthy and transparent alternative to competitors.  
@@ -194,9 +190,47 @@ Anne Wojcicki is the co-founder and CEO of 23andMe, a personal genomics and biot
 Anne Wojcicki’s experience in the health and wellness industry, particularly in the areas of genomics and personalized healthcare, make her a perfect fit for Health Harvest’s board. Her understanding of consumer needs, privacy concerns, and the complex regulatory landscape in healthcare will be invaluable in helping Health Harvest navigate these challenges and offer innovative, safe, and compliant products and services.
 
 # Experimentation & Priorities
-## Experimentation (to tests OKRs of Strategy)
+## Experimentation (OKRs of Strategy)
+### 1. Develop minimally viable product for the Health Harvest app
+Experiment:  
+- First quarter of the year after company launch: Create an app prototype using the app prototyping platform Sketch. Have team members, their friends, and their peers rate various app features on a scale  of 1-8. Having an even number of rating points disallows raters from giving a middle rating for every feature. The categories for testing would include: Ease of data entry, ease of navigation, clarity of labeling, visual style, functionality for data tracking, and overall rating for the app. Iterate on feedback until an above average rating is met for the users. 
+- Second through third quarter after company launch: Begin development across both ios and android platforms. Monthly surveying of the app and its features like in part one would continue. A/B testing would also be introduced for app features. This would include interface changes, color or button placement, and different screen layouts. A soft alpha stage launch for developer’s peers would occur by the end of the second quarter as well. Focus would move to testing the app running on consumer devices.
+- Beta Launch of the app to the public should occur around the start of the fourth quarter. Rapid changes to features would occur based on user feedback both through app store reviews and feedback portals prompted to the users. 
 
+### 2. Increase user acquisition and retention
+Experiments:  
+- Gamify user acquisition through the use of referral programs. If a customer manages to refer 5 other users, they get added to a pool that will randomly draw winners to be a preferred member of the app. Every 5 new referrals is another entry. These members would get exclusive access to customer support lines, and would also be first in line to try out new app features. 
+- We would Conduct search engine advertising campaigns using platforms like Youtube Ads and Google Ads to attract potential users.
+- User retention analysis would also occur at this time. Surveying inactive users (users that have not used the app in over 3 months) to see why they stopped using the app. Fix recurring instances of negative sentiment among departed users.  
+  
+A potential survey would look like this:  
+1. What were the main reasons you stopped using the Health Harvest app?
+2. How easy was it for you to navigate and use Health Harvest?
+3. Were there any features that you felt were missing or could have been improved?
+4. Did you encounter any technical difficulties or bugs while using Health Harvest?
+5. How frequently did you use the Health Harvest app to track your fitness activities?
+6. How satisfied were you with the Health Harvest app’s overall performance?
+7. Did you feel that Health Harvest helped you reach your fitness goals?
+8. Would you consider using Health Harvest again in the future?
+9. Is there anything else you would like to share about your experience with fitness tracking in Health Harvest?
+
+### 3. Expand the range of integrated health and fitness tools
+- Have focus groups look at possible brands that we are interested in working with to see what would be the best cultural fit for collaboration with our brand.
+- Have 3 of our possible brands with about 3 of their possible wrist band designs on our wrist watch fitness tracking product.
+- Focus groups will test for best comfort,ease of use, and looks.
+- Each focus group will consist of 5-10 persons who were found with Google Forms. These people are looking for a better fitness app and wearable item.
+  
+Focus group would be asked:  
+1. Before showing wristbands, What are you looking for in a brand?
+2. Any ethical dilemmas with current brands shown? 
+3. What materials would be best suited for your needs in a wristband?
+4. To test for ease of use we will have the focus group try on the wristbands without telling them how to put and take off the wrist bands.
+5. Asking questions like, “Is this what you were expecting?”, and seeing what they respond with.
+6. After having the group test the wristbands ask if they have any suggestions to see if there were any major problems with the bands.
+  
 ## Priorites 
+
+
 
 # Youtube Presentation:
 URL to Video goes here!!
